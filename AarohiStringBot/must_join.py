@@ -24,11 +24,11 @@ async def must_join_channel(bot: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("</> ᴍᴜsɪᴄ ʙᴏᴛ[❣️]", url=f"https://t.me/Alone_Dil_bot?startgroup=true"),
+                                InlineKeyboardButton("</> ᴍᴜsɪᴄ ʙᴏᴛ[❣️]", url=f"https://t.me/LyraTuneBot?startgroup=true"),
                             ],
                             [
-                                InlineKeyboardButton("</> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ[❣️]", url=link),
-                                InlineKeyboardButton("</> ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]", url=f"https://t.me/aarohi_ki_duniya"),
+                                InlineKeyboardButton("</> Uᴘᴅᴀᴛᴇs", url=link),
+                                InlineKeyboardButton("</> ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]", url=f"https://t.me/Unknown_RK01"),
                             ],
                         ]
                     )
